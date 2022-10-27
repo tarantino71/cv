@@ -1,0 +1,18 @@
+body {
+  background-color: #C8DBBE;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+
+hr {
+  border-top: 7px dotted grey;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom: none;
+  width: 26%;
+}
+
+h1, h3 {
+  color: #379237;
+}
